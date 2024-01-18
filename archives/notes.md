@@ -34,3 +34,6 @@ JDK17 LTS 下载地址：sun.oracle.com
 网站：
 - 语言语法规则
 - 代码规约
+
+# 04
+Java10 var类型变量 自动类型推导
