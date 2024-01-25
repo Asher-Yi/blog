@@ -37,3 +37,6 @@ JDK17 LTS 下载地址：sun.oracle.com
 
 # 04
 Java10 var类型变量 自动类型推导
+
+# 05
+try(resource){} 带资源关闭的try语句，需要resource实现AutoClose接口
