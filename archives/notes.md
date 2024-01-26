@@ -40,3 +40,14 @@ Java10 var类型变量 自动类型推导
 
 # 05
 try(resource){} 带资源关闭的try语句，需要resource实现AutoClose接口
+
+# 06
+- jdk /bin下有javac，jre /bin中没有，应该没有jdk是编译不了代码的
+- jvm:运行java程序，不同平台有不同的jvm
+- jre：jvm+核心类库，可运行开发好的java程序
+- jdk：jre+开发工具，包括javac，jar
+
+- ctrl+space 提示 ctrl+shift+enter 补全括号和分号 shift+F6 rename 快捷键可以到help里面，提供pdf
+- live templates 缩写->代码块 sout, psvm, fori
+- Postfix Completion .sout .var
+- Project中包含了java文件，jar包等文件，而module则是功能逻辑上的模块
