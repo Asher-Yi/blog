@@ -51,3 +51,7 @@ try(resource){} 带资源关闭的try语句，需要resource实现AutoClose接�
 - live templates 缩写->代码块 sout, psvm, fori
 - Postfix Completion .sout .var
 - Project中包含了java文件，jar包等文件，而module则是功能逻辑上的模块
+
+# 07
+- ideavim进入编辑模式后，可以使用idea本来的快捷键
+- 多思考，以前一带而过的简单内容现在还能提出很多答不上来的问题，而那些“简单内容”是重要的基础。你不自知，还以为自己想出来的那些就是全部，代码都没敲过几行就以为掌握了，哈哈。
